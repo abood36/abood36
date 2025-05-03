@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdelrahman Mahrouss</h1>
+<h1 align="center">Hi 👋, I'm Abdelrahman Mahrous</h1>
 <p align="center">
   <img src="https://github.com/abood36/abood36/blob/main/profile-pic.jpg" width="200" style="border-radius: 50%" />
 </p>
